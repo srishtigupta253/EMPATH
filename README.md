@@ -1,1 +1,1 @@
-This dataset helps models attain affectiev empathy
+This dataset helps models attain affective empathy
